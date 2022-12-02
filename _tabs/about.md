@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### 蓝稚的个人博客
+
+- [c++相关内容](https://www.lanzhi.me/categories/c/)
+- [BluestarServer](https://github.com/BluestarServer)
