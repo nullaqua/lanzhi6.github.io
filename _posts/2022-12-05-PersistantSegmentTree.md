@@ -7,7 +7,7 @@ author: Lanzhi
 math: true
 ---
 
-可持久化动态开点权值线段树(维护区间第$k$大)
+# 可持久化动态开点权值线段树(维护区间第$k$大)
 
 ```c++
 #include <bits/stdc++.h>
