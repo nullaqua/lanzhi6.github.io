@@ -5,3 +5,5 @@ order: 4
 ---
 
 ### 蓝稚的个人博客
+
+[BluestarServer](https://github.com/BluestarServer)
