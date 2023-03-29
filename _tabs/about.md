@@ -8,4 +8,4 @@ order: 4
 
 [BluestarServer(Github)](https://github.com/BluestarServer)
 
-[BluestarServer(Web)](https://www.bluest)
+[BluestarServer(Web)](https://www.bluestarmc.top)
